@@ -1,0 +1,278 @@
+10:35:17.161 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml"
+10:35:17.344 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+10:35:18.606 [main] INFO  com.resolver.utilities.LoggerUtil - Set up the Web Driver
+10:35:26.511 [main] INFO  com.resolver.utilities.LoggerUtil - Remove the Web Driver
+11:09:18.056 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml"
+11:09:18.286 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+11:09:19.745 [main] INFO  com.resolver.utilities.LoggerUtil - Set up the Web Driver
+11:09:19.989 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:09:19.998 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:09:24.346 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test5 is completed
+11:09:24.513 [main] INFO  com.resolver.utilities.LoggerUtil - Remove the Web Driver
+11:14:56.235 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml"
+11:14:56.494 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+11:14:57.809 [main] INFO  com.resolver.utilities.LoggerUtil - Set up the Web Driver
+11:14:58.035 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:14:58.035 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:14:58.277 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the input exist
+11:14:58.303 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the input exist
+11:14:58.396 [main] INFO  com.resolver.utilities.LoggerUtil - User entered email
+11:14:58.467 [main] INFO  com.resolver.utilities.LoggerUtil - User entered password
+11:14:58.469 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test1 is completed
+11:14:58.506 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:14:58.506 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:14:58.745 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test2 is completed
+11:14:58.777 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:14:58.777 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:14:59.020 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test3 is completed
+11:14:59.053 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:14:59.053 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:14:59.227 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test4 is completed
+11:14:59.255 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:14:59.255 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:15:00.488 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test5 is completed
+11:15:00.518 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:15:00.518 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:15:00.556 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test6 is completed
+11:15:00.708 [main] INFO  com.resolver.utilities.LoggerUtil - Remove the Web Driver
+11:31:37.435 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml"
+11:31:37.624 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+11:31:38.901 [main] INFO  com.resolver.utilities.LoggerUtil - Set up the Web Driver
+11:31:39.149 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:31:39.149 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:31:39.360 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the input exists
+11:31:39.389 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the input exists
+11:31:39.415 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button exists
+11:31:39.479 [main] INFO  com.resolver.utilities.LoggerUtil - User entered email
+11:31:39.536 [main] INFO  com.resolver.utilities.LoggerUtil - User entered password
+11:31:39.539 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test1 is completed
+11:31:39.572 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:31:39.573 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:31:39.709 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the number of list group items is3as expect
+11:31:39.752 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the 2 list item value is: List Item 2
+11:31:39.770 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the 2 list item badge is: 6
+11:31:39.771 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test2 is completed
+11:31:39.803 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:31:39.803 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:31:39.951 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the option text is Option 1
+11:31:40.033 [main] INFO  com.resolver.utilities.LoggerUtil - Selected Option 3from the dropdown
+11:31:40.046 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the option text is Option 3
+11:31:40.047 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test3 is completed
+11:31:40.081 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:31:40.081 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:31:40.237 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is enabled
+11:31:40.268 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is disabled
+11:31:40.269 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test4 is completed
+11:31:40.299 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:31:40.299 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:31:42.547 [main] INFO  com.resolver.utilities.LoggerUtil - User clicks the button
+11:31:42.570 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the alert is displayed
+11:31:42.589 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is disabled
+11:31:42.590 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test5 is completed
+11:31:42.624 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:31:42.624 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:31:42.665 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the cell value at coordinates (2,2) is Ventosanzap
+11:31:42.666 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test6 is completed
+11:31:42.799 [main] INFO  com.resolver.utilities.LoggerUtil - Remove the Web Driver
+11:32:41.128 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml"
+11:32:41.312 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+11:32:42.527 [main] INFO  com.resolver.utilities.LoggerUtil - Set up the Web Driver
+11:32:42.536 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:32:42.781 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:32:43.005 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the input exists
+11:32:43.033 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the input exists
+11:32:43.060 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button exists
+11:32:43.126 [main] INFO  com.resolver.utilities.LoggerUtil - User entered email
+11:32:43.187 [main] INFO  com.resolver.utilities.LoggerUtil - User entered password
+11:32:43.190 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test1 is completed
+11:32:43.190 [main] INFO  com.resolver.utilities.LoggerUtil - 
+11:32:43.190 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:32:43.229 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:32:43.368 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the number of list group items is3as expect
+11:32:43.413 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the 2 list item value is: List Item 2
+11:32:43.430 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the 2 list item badge is: 6
+11:32:43.431 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test2 is completed
+11:32:43.431 [main] INFO  com.resolver.utilities.LoggerUtil - 
+11:32:43.432 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:32:43.460 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:32:43.603 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the option text is Option 1
+11:32:43.687 [main] INFO  com.resolver.utilities.LoggerUtil - Selected Option 3from the dropdown
+11:32:43.703 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the option text is Option 3
+11:32:43.704 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test3 is completed
+11:32:43.705 [main] INFO  com.resolver.utilities.LoggerUtil - 
+11:32:43.706 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:32:43.746 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:32:43.914 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is enabled
+11:32:43.942 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is disabled
+11:32:43.943 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test4 is completed
+11:32:43.943 [main] INFO  com.resolver.utilities.LoggerUtil - 
+11:32:43.944 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:32:43.977 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:32:53.498 [main] INFO  com.resolver.utilities.LoggerUtil - User clicks the button
+11:32:53.521 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the alert is displayed
+11:32:53.540 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is disabled
+11:32:53.541 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test5 is completed
+11:32:53.541 [main] INFO  com.resolver.utilities.LoggerUtil - 
+11:32:53.542 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:32:53.572 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:32:53.611 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the cell value at coordinates (2,2) is Ventosanzap
+11:32:53.612 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test6 is completed
+11:32:53.612 [main] INFO  com.resolver.utilities.LoggerUtil - 
+11:32:53.786 [main] INFO  com.resolver.utilities.LoggerUtil - Remove the Web Driver
+11:33:35.136 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml"
+11:33:35.319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+11:33:36.501 [main] INFO  com.resolver.utilities.LoggerUtil - Set up the Web Driver
+11:33:36.508 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:33:36.508 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:33:36.724 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:33:36.953 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the input exists
+11:33:36.981 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the input exists
+11:33:37.009 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button exists
+11:33:37.081 [main] INFO  com.resolver.utilities.LoggerUtil - User entered email
+11:33:37.138 [main] INFO  com.resolver.utilities.LoggerUtil - User entered password
+11:33:37.140 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test1 is completed
+11:33:37.140 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:33:37.142 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:33:37.142 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:33:37.175 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:33:37.317 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the number of list group items is3as expect
+11:33:37.361 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the 2 list item value is: List Item 2
+11:33:37.378 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the 2 list item badge is: 6
+11:33:37.379 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test2 is completed
+11:33:37.379 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:33:37.380 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:33:37.380 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:33:37.410 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:33:37.552 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the option text is Option 1
+11:33:37.635 [main] INFO  com.resolver.utilities.LoggerUtil - Selected Option 3from the dropdown
+11:33:37.651 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the option text is Option 3
+11:33:37.652 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test3 is completed
+11:33:37.652 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:33:37.653 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:33:37.653 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:33:37.688 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:33:37.841 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is enabled
+11:33:37.861 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is disabled
+11:33:37.862 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test4 is completed
+11:33:37.862 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:33:37.863 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:33:37.863 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:33:37.892 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:33:47.375 [main] INFO  com.resolver.utilities.LoggerUtil - User clicks the button
+11:33:47.397 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the alert is displayed
+11:33:47.420 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is disabled
+11:33:47.421 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test5 is completed
+11:33:47.421 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:33:47.422 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:33:47.422 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:33:47.453 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:33:47.493 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the cell value at coordinates (2,2) is Ventosanzap
+11:33:47.494 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test6 is completed
+11:33:47.494 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:33:47.659 [main] INFO  com.resolver.utilities.LoggerUtil - Remove the Web Driver
+11:34:25.469 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml"
+11:34:25.650 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+11:34:26.820 [main] INFO  com.resolver.utilities.LoggerUtil - Set up the Web Driver
+11:34:26.827 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:34:26.827 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:34:27.037 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:34:27.251 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the input exists
+11:34:27.279 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the input exists
+11:34:27.304 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button exists
+11:34:27.368 [main] INFO  com.resolver.utilities.LoggerUtil - User entered email
+11:34:27.427 [main] INFO  com.resolver.utilities.LoggerUtil - User entered password
+11:34:27.430 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test1 is completed
+11:34:27.431 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:34:27.432 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:34:27.465 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:34:27.601 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the number of list group items is3as expect
+11:34:27.642 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the 2 list item value is: List Item 2
+11:34:27.657 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the 2 list item badge is: 6
+11:34:27.658 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test2 is completed
+11:34:27.660 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:34:27.660 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:34:27.689 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:34:27.827 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the option text is Option 1
+11:34:27.909 [main] INFO  com.resolver.utilities.LoggerUtil - Selected Option 3from the dropdown
+11:34:27.921 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the option text is Option 3
+11:34:27.922 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test3 is completed
+11:34:27.923 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:34:27.924 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:34:27.955 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:34:28.116 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is enabled
+11:34:28.140 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is disabled
+11:34:28.141 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test4 is completed
+11:34:28.142 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:34:28.142 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:34:28.177 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:34:29.386 [main] INFO  com.resolver.utilities.LoggerUtil - User clicks the button
+11:34:29.414 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the alert is displayed
+11:34:29.433 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is disabled
+11:34:29.434 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test5 is completed
+11:34:29.435 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:34:29.435 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:34:29.467 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:34:29.510 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the cell value at coordinates (2,2) is Ventosanzap
+11:34:29.511 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test6 is completed
+11:34:29.657 [main] INFO  com.resolver.utilities.LoggerUtil - Remove the Web Driver
+11:44:22.010 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml"
+11:44:22.254 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dengw\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+11:44:23.511 [main] INFO  com.resolver.utilities.LoggerUtil - Set up the Web Driver
+11:44:23.519 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:44:23.519 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:44:23.751 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:44:23.975 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the input exists
+11:44:24.001 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the input exists
+11:44:24.027 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button exists
+11:44:24.089 [main] INFO  com.resolver.utilities.LoggerUtil - User entered email
+11:44:24.145 [main] INFO  com.resolver.utilities.LoggerUtil - User entered password
+11:44:24.148 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test1 is completed
+11:44:24.149 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:44:24.149 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:44:24.182 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:44:24.331 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the number of list group items is 3 as expect
+11:44:24.373 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the 2 list item value is: List Item 2
+11:44:24.390 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the 2 list item badge is: 6
+11:44:24.391 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test2 is completed
+11:44:24.392 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:44:24.392 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:44:24.422 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:44:24.570 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the option text is Option 1
+11:44:24.651 [main] INFO  com.resolver.utilities.LoggerUtil - Select Option 3 from the dropdown
+11:44:24.663 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the option text is Option 3
+11:44:24.664 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test3 is completed
+11:44:24.665 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:44:24.665 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:44:24.697 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:44:24.841 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is enabled
+11:44:24.862 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is disabled
+11:44:24.863 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test4 is completed
+11:44:24.863 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:44:24.864 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:44:24.894 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:44:29.224 [main] INFO  com.resolver.utilities.LoggerUtil - Wait button is available and user clicks the button
+11:44:29.245 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the alert is displayed
+11:44:29.262 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the button is disabled
+11:44:29.263 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test5 is completed
+11:44:29.264 [main] INFO  com.resolver.utilities.LoggerUtil - ---------------------------------------------------------------
+11:44:29.264 [main] INFO  com.resolver.utilities.LoggerUtil - Starting for the test
+11:44:29.292 [main] INFO  com.resolver.utilities.LoggerUtil - Navigate to the Assessment test page
+11:44:29.332 [main] INFO  com.resolver.utilities.LoggerUtil - Verify the cell value at coordinates (2,2) is Ventosanzap
+11:44:29.332 [main] INFO  com.resolver.utilities.LoggerUtil - Test com.resolver.ui_tests.Assessment_Test.test6 is completed
+11:44:29.514 [main] INFO  com.resolver.utilities.LoggerUtil - Remove the Web Driver
